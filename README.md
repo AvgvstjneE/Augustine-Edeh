@@ -1,4 +1,5 @@
 # Augustine-Edeh
+(Note: this is a new profile and I am currently migrating files and creating labs, detections and projects. Expect more repositories and write-ups over the coming weeks.)
 ### Cybersecurity Analyst | Security Operations & Vulnerability Management | Detection Engineering | Governance Risk and Compliance.
 Cybersecurity professional specializing in Security Operations Center (SOC), Governance, Risk & Compliance (GRC). Proficient in threat detection, incident triage, SIEM query development (KQL/SPL), and building compliance artifacts like risk registers, policies, and ISO 27001-aligned controls. Passionate about bridging technical SOC workflows with governance frameworks to help organizations mitigate cyber risks under ACSC Essential Eight and NIST CSF.  
 <a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
