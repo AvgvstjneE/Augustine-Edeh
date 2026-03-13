@@ -1,6 +1,7 @@
 # Augustine-Edeh
+
 (Note: this is a new profile and I am currently migrating files and creating labs, detections and projects. Expect more repositories and write-ups over the coming weeks.)
-### Cybersecurity Analyst | Security Operations & Vulnerability Management | Detection Engineering | Governance Risk and Compliance.
+## Cybersecurity Analyst | Security Operations & Vulnerability Management | Detection Engineering | Governance Risk and Compliance.
 Cybersecurity professional specializing in Security Operations Center (SOC), Governance, Risk & Compliance (GRC). Proficient in threat detection, incident triage, SIEM query development (KQL/SPL), and building compliance artifacts like risk registers, policies, and ISO 27001-aligned controls. Passionate about bridging technical SOC workflows with governance frameworks to help organizations mitigate cyber risks under ACSC Essential Eight and NIST CSF.  
 <a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -22,14 +23,11 @@ Learners graduate with:
 As a SOC and GRC-focused cybersecurity professional, I work at the intersection of technical detection/response and governance-driven risk management.
 My interests include building SOC workflows, designing detections in SIEM platforms, and creating governance artifacts that map security controls to business risk and compliance requirements.
 
-Contact / Links:
-- LinkedIn: https://www.linkedin.com/in/augustine-edeh-3456a239b
-- Portfolio: https://www.github.com/AvgvstjneE
-- Email: avgvstjne@hotmail.com | avgvstjne@gmail.com
+What I focus on:
+- Hands-on SOC skills: log analysis, alert triage, threat hunting, and incident response in enterprise-style environments.
+- GRC capability: risk assessments, control design, ISO 27001 and Essential Eight alignment, policy and audit preparation.
+- Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
----
-
-## Objective
 My objective is to build a career as a SOC and GRC professional, contributing to detection, response, and governance in modern enterprises.
 I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC analyst roles where I can apply detection engineering, incident handling, and risk management to help organisations strengthen their security posture.
 
@@ -74,31 +72,7 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 
 ---
 
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
----
-
-## Tooling I Worked With
+## Tools I Worked With
 
 ### Logging / Telemetry Sources
 - Windows Event Logs (Security, Sysmon, PowerShell).
@@ -158,10 +132,14 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
 ---
 
-## Useful Links (Portfolio Template)
+## Contact
+- LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b
+- Email: avgvstjne@hotmail.com  
+- Portfolio: https://github.com/avgvstjneE
+
+---
 
 ### SIEM Query Languages
 - KQL (Sentinel): https://learn.microsoft.com/azure/data-explorer/kusto/query/
